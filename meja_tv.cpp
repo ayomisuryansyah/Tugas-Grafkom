@@ -1,6 +1,6 @@
 #include <GL/glut.h>
 #include <cmath>
-
+//AYOMI SURYANSYAH
 GLfloat light_position[] = { 2.0, 2.0, 1.0, 1.0 }; // Posisi cahaya
 GLfloat light_position2[] = { -2.0, 2.0, -1.0, 1.0 }; // Posisi cahaya
 GLfloat white_light[] = { 1.0, 1.0, 1.0, 1.0 }; // Warna cahaya putih
