@@ -8,4 +8,4 @@ Hadyan
 5222600009
 
 #Gambar
-![Meja TV](Screenshot 2023-10-10 142706.png)
+![Meja TV](Meja_TV.png)
